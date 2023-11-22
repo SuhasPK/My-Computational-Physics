@@ -2,15 +2,18 @@
 
 ## Introduction and Motivation
 This repository explore a wide array of physics and math concepts. One key important observation about this repository is, it mainly focuses on physics and math based simulations/programs and also some $\LaTeX$.
-The repository majorly uses python, R and $\LaTeX$ from its inception. My main motivation to learn a programming language was to run the concept of physics and math on a computer. And this was possible after going through some udemy courses, some very helpful Youtube channels and blogs/sites, which I will list at the end.
+The repository majorly uses Python, R and $\LaTeX$ from its inception. My main motivation to learn a programming language was to run the concepts of physics and math on a computer. And this was possible after going through some udemy courses, some very helpful Youtube channels and blogs/sites, which I will list at the end.
 
 ## Projects lists and details
 
 1. Project-1: Series Expansion, Interpolation and Curve fitting
-   > This folder consists of python programs on Taylor series, Taylor series expansion, Interpolation, Splines, curve fitting and some error calculations.
-3. Project-2: Derivatives
-   > This folder consists of taking derivatives of some math functions, central difference method, Richardson's method, and some multi-dimensional derivatives like gradient, divergence and curl. 
-
+   > This sub folder consists of python programs on Taylor series, Taylor series expansion, Interpolation, Splines, curve fitting and some error calculations.
+2. Project-2: Derivatives
+   > This sub folder consists of python programs on taking derivatives of some math functions, central difference method, Richardson's method, and some multi-dimensional derivatives like gradient, divergence and curl. 
+3. Project-3: Integrals
+   > This sub folder covers Discretizing integrals and trapezoidal rule, Improving accuracy: Simpson's rule, Rotational Energy and Moment of inertia, Rotating stick around the center, Rotating a sphere and sherical shell, Magnetic field of a wire, Analyzing a periodic signals via Fourier Transforms.
+4. Project-4: Differential Equations-I
+   > Euler's method, Time-amplified radioactive decay, Higher order differential equations, Free fall, Pendulum, Damping and driving forces, Scipy Introduction and higher order differential equations, Runge Kutta $4^{th}$ order method.
  
 ## Inspiration and Resources
 1. [Computational Physics: Scientific Programming with Python](https://www.udemy.com/share/10603w3@d0xJBjGS2lUSrukWBJ1yuQnS7s5CFpr6PhcOq1l_R2Zu5rsCK1LxWZpjEvsgAyRi-w==/)
