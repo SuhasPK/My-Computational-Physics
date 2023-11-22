@@ -12,3 +12,10 @@ The repository majorly uses python, R and $\LaTeX$ from its inception. My main m
    > This folder consists of taking derivatives of some math functions, central difference method, Richardson's method, and some multi-dimensional derivatives like gradient, divergence and curl. 
 
  
+## Inspiration and Resources
+1. [Computational Physics: Scientific Programming with Python](https://www.udemy.com/share/10603w3@d0xJBjGS2lUSrukWBJ1yuQnS7s5CFpr6PhcOq1l_R2Zu5rsCK1LxWZpjEvsgAyRi-w==/)
+2. [Master Math by Coding in Python](https://www.udemy.com/share/101X5e3@SJDZvrWAGp3Aq1WwM_8D6nafOvA_xind8Vrc_pyBs1Qf8QJlURmrFlav9nKALFrSxA==/)
+3. [Mr. P Solver](https://www.youtube.com/c/MrPSolver)
+4. [Statistical Mechanics: Algorithms and Computations](https://www.coursera.org/programs/amc-faculty-development-hub-h8tbp/learn/statistical-mechanics)
+
+
