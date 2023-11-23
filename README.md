@@ -6,15 +6,43 @@ The repository majorly uses Python, R and $\LaTeX$ from its inception. My main m
 
 ## Projects lists and details
 
-1. Project-1: Series Expansion, Interpolation and Curve fitting
-   > This sub folder consists of python programs on Taylor series, Taylor series expansion, Interpolation, Splines, curve fitting and some error calculations.
-2. Project-2: Derivatives
-   > This sub folder consists of python programs on taking derivatives of some math functions, central difference method, Richardson's method, and some multi-dimensional derivatives like gradient, divergence and curl. 
-3. Project-3: Integrals
-   > This sub folder covers Discretizing integrals and trapezoidal rule, Improving accuracy: Simpson's rule, Rotational Energy and Moment of inertia, Rotating stick around the center, Rotating a sphere and sherical shell, Magnetic field of a wire, Analyzing a periodic signals via Fourier Transforms.
-4. Project-4: Differential Equations-I
-   > Euler's method, Time-amplified radioactive decay, Higher order differential equations, Free fall, Pendulum, Damping and driving forces, Scipy Introduction and higher order differential equations, Runge Kutta $4^{th}$ order method.
- 
+1. **Project-1: Series Expansion, Interpolation and Curve fitting**
+   > This sub folder consists of python programs on 
+      - Taylor series
+      - Taylor series expansion, 
+      - Interpolation, Splines, curve fitting 
+      - Some error calculations.
+2. **Project-2: Derivatives**
+   > This sub folder consists of python programs on  
+      - derivatives of some math functions 
+      - central difference method
+      - Richardson's method
+      - Multi-dimensional derivatives like gradient divergence and curl. 
+3. **Project-3: Integrals**
+   > This sub folder covers 
+      -  Discretizing integrals and trapezoidal rule 
+      - Improving accuracy: Simpson's rule
+      - Rotational Energy and Moment of inertia
+      - Rotating stick around the center
+      - Rotating a sphere and sherical shell
+      - Magnetic field of a wire
+      - Analyzing a periodic signals via Fourier Transforms.
+4. **Project-4: Differential Equations-I**
+   > This sub folder covers 
+      - Euler's method
+      - Time-amplified radioactive decay
+      - Higher order differential equations
+      - Free fall, Pendulum, Damping and driving forces, 
+      - Scipy Introduction and higher order differential equations
+      - Runge Kutta $4^{th}$ order method.
+5. **Project-5: Differential Equation-II**
+   > This sub folder covers 
+      - Simulating a rolling ball-Two decoupled oscillator
+      - Chaos and Lorentz systems 
+      - Heat Equation
+      - 3-body problem: Coupled differential equation for sun, earth and moon.
+      - Rocketship  
+
 ## Inspiration and Resources
 1. [Computational Physics: Scientific Programming with Python](https://www.udemy.com/share/10603w3@d0xJBjGS2lUSrukWBJ1yuQnS7s5CFpr6PhcOq1l_R2Zu5rsCK1LxWZpjEvsgAyRi-w==/)
 2. [Master Math by Coding in Python](https://www.udemy.com/share/101X5e3@SJDZvrWAGp3Aq1WwM_8D6nafOvA_xind8Vrc_pyBs1Qf8QJlURmrFlav9nKALFrSxA==/)
