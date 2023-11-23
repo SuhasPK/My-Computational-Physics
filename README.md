@@ -1,10 +1,12 @@
 # My-Computational-Physics
+<img src="computational physics logo.png" alt="Computational physics logo" style="width:500px;"/>
 
 ## Introduction and Motivation
 This repository explore a wide array of physics and math concepts. One key important observation about this repository is, it mainly focuses on physics and math based simulations/programs and also some $\LaTeX$.
 The repository majorly uses Python, R and $\LaTeX$ from its inception. My main motivation to learn a programming language was to run the concepts of physics and math on a computer. And this was possible after going through some udemy courses, some very helpful Youtube channels and blogs/sites, which I will list at the end.
 
 ## Projects lists and details
+### Python Projects
 
 1. **Project-1: Series Expansion, Interpolation and Curve fitting**
 
@@ -67,6 +69,11 @@ The repository majorly uses Python, R and $\LaTeX$ from its inception. My main m
       
       - Calculating $\pi$ using Monte Carlo algorithm
       - Simulating a magnet (This one of the cool programs that I came across. Some basic understanding of _Solid State Physics_ will make you appreciate more.) 
+
+### R projects
+
+### $\LaTeX$ projects and documents
+
 
 ## Inspiration and Resources
 1. [Computational Physics: Scientific Programming with Python](https://www.udemy.com/share/10603w3@d0xJBjGS2lUSrukWBJ1yuQnS7s5CFpr6PhcOq1l_R2Zu5rsCK1LxWZpjEvsgAyRi-w==/)
