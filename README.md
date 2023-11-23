@@ -1,6 +1,7 @@
 # My-Computational-Physics
-<img src="computational physics logo.png" alt="Computational physics logo" style="width:500px;"/>
-
+<p align="center">
+   <img src="computational physics logo.png" alt="Computational physics logo" style="width:500px;"/>
+</p>
 ## Introduction and Motivation
 This repository explore a wide array of physics and math concepts. One key important observation about this repository is, it mainly focuses on physics and math based simulations/programs and also some $\LaTeX$.
 The repository majorly uses Python, R and $\LaTeX$ from its inception. My main motivation to learn a programming language was to run the concepts of physics and math on a computer. And this was possible after going through some udemy courses, some very helpful Youtube channels and blogs/sites, which I will list at the end.
