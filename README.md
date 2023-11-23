@@ -1,11 +1,14 @@
 # My-Computational-Physics
+---
+<button name="button" onclick="http://www.google.com">Click me</button>
 <p align="center">
+   
    <img src="computational physics logo.png" alt="Computational physics logo" style="width:500px;"/>
 </p>
 
 ## Introduction and Motivation
 This repository explore a wide array of physics and math concepts. One key important observation about this repository is, it mainly focuses on physics and math based simulations/programs and also some $\LaTeX$.
-The repository majorly uses Python, R and $\LaTeX$ from its inception. My main motivation to learn a programming language was to run the concepts of physics and math on a computer. And this was possible after going through some udemy courses, some very helpful Youtube channels and blogs/sites, which I will list at the end.
+The repository majorly uses Python and $\LaTeX$ from its inception. My main motivation to learn a programming language was to run the concepts of physics and math on a computer. And this was possible after going through some udemy courses, some very helpful Youtube channels and blogs/sites, which I have listed in the end.
 
 ## Projects lists and details
 ### Python Projects
@@ -72,7 +75,29 @@ The repository majorly uses Python, R and $\LaTeX$ from its inception. My main m
       - Calculating $\pi$ using Monte Carlo algorithm
       - Simulating a magnet (This one of the cool programs that I came across. Some basic understanding of _Solid State Physics_ will make you appreciate more.) 
 
-### R projects
+8. **Project-8: Quantum Mechanics - Solving Schrodinger wave equation**
+   
+   > I am alway excited when it comes to quantum mechanics because anyone who studied quantum mechanic, at one point would have thought what an absurd way of thing working. But it works to explain proper where classical physics failed to work it charm. Here, I will be using python to program
+      - Particle in a box
+      - Quantum harmonic oscillator
+      - Spherical harmonics
+      - Quantum tunneling effect
+
+9. **Project-9: Electronic Properties of Graphene**
+
+   > This section involves some basics of _Solid State Physics_ to appreciate more on the nature of the study. Here, python is used to program
+      - Free electron to band structures
+      - Plotting graphene lattice
+      - Band structure of graphene
+      - Dirac points and massless electrons
+      - Plotting a graphene nano-ribbon
+      - Applying magnetic field: Landau quantization \& Quantum Hall Effect
+      - Moire lattice of twisted bilayers of graphene
+
+10. **Project-10: Quantum visualisation using python's _qmsolve_.**
+   
+   > One of my most excited simulations to run is with this library.
+   
 
 ### $\LaTeX$ projects and documents
 
