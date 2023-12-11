@@ -75,6 +75,8 @@ This repository explores a diverse range of physics and math concepts, focusing 
    - Moire lattice of twisted bilayers of graphene
 
 10. **Project-10: Quantum visualization using python's _qmsolve_.**
+
+11. **Projecct-11:Basics of Linear Algebra** 
   
 ### $\LaTeX$ Projects and Documents
 
